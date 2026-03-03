@@ -1,8 +1,8 @@
 using UnityEngine;
 
-public class SpikeTrap : MonoBehaviour
+public class Flames : MonoBehaviour
 {
-    [SerializeField] float damage = 10f;
+    [SerializeField] float damage = 100f;
 
     void OnTriggerStay2D(Collider2D other)
     {
