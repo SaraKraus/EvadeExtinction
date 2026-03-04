@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Flames : MonoBehaviour
+public class SpikeTrap : MonoBehaviour
 {
     [SerializeField] float damage = 100f;
 

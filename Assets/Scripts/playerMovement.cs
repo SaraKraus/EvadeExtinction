@@ -14,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded;
     private SpriteRenderer spriteRenderer;
 
+    private int cowCounter = 0;
+    //public TMP_Text counterText;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -56,6 +59,20 @@ public class PlayerMovement : MonoBehaviour
         {
             Gizmos.color = Color.yellow;
             Gizmos.DrawLine(transform.position + (Vector3)groundCheckOffset, transform.position + (Vector3)groundCheckOffset + Vector3.down * groundCheckDistance);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+        else if (collision.CompareTag("Cow") && collision.gameObject.activeSelf == true)
+        {
+            collision.gameObject.SetActive(false);
+            cowCounter += 1;
+            //counterText = "Cows: " + cowCounter;
         }
     }
 }

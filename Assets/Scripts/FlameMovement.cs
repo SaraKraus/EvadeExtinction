@@ -2,20 +2,11 @@ using UnityEngine;
 
 public class FlameMovement : MonoBehaviour
 {
+float speed = 5f; // Units per second
 
-    public GameObject Flames;
-    public GameObject End;
-        public float speed;
-
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        Flames.transform.position = Vector2.MoveTowards(Flames.transform.position, End.transform.position, speed);
-    }
+    
+void Update()
+{
+transform.Translate(Vector2.up * speed * Time.deltaTime);
 }
+    }

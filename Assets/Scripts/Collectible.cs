@@ -18,7 +18,6 @@ public class Collectible : MonoBehaviour
             {
                 AudioManager.Instance.PlaySFX(AudioManager.Instance.collectibleSFX);
             }
-            Destroy(gameObject);
         }
     }
 }
