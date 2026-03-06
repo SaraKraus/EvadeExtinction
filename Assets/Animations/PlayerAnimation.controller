@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
 --- !u!1101 &-8493590768246806142
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -67,6 +68,9 @@ AnimatorStateTransition:
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
 --- !u!1107 &-3674330058892686226
+=======
+--- !u!1107 &-7589543131343209010
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
 AnimatorStateMachine:
   serializedVersion: 6
   m_ObjectHideFlags: 1
@@ -76,11 +80,16 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -2385292589117821448}
-    m_Position: {x: 290, y: 40, z: 0}
+    m_State: {fileID: 3347317365371517120}
+    m_Position: {x: 0, y: 210, z: 0}
   - serializedVersion: 1
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
     m_State: {fileID: 9052723762798852577}
     m_Position: {x: 360, y: 190, z: 0}
+=======
+    m_State: {fileID: 3349593401675557738}
+    m_Position: {x: 300, y: 190, z: 0}
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: 8943795980492954458}
@@ -91,14 +100,14 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 620, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -2385292589117821448}
---- !u!1102 &-2385292589117821448
-AnimatorState:
-  serializedVersion: 6
+  m_DefaultState: {fileID: 3347317365371517120}
+--- !u!1101 &-5549275692911507326
+AnimatorStateTransition:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
   m_Name: PeachGuy
   m_Speed: 1
   m_CycleOffset: 0
@@ -137,6 +146,22 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
   m_ExitTime: 0.75
+=======
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 2
+    m_ConditionEvent: isRunning
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 3347317365371517120}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0.25
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -148,13 +173,19 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: spritesheet-characters-double_0
+  m_Name: PlayerAnimation
   serializedVersion: 5
-  m_AnimatorParameters: []
+  m_AnimatorParameters:
+  - m_Name: isRunning
+    m_Type: 4
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
-    m_StateMachine: {fileID: -3674330058892686226}
+    m_StateMachine: {fileID: -7589543131343209010}
     m_Mask: {fileID: 0}
     m_Motions: []
     m_Behaviours: []
@@ -164,17 +195,14 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
---- !u!114 &300788897207125081
-MonoBehaviour:
+--- !u!1101 &975576119833805452
+AnimatorStateTransition:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ca1dab67dbca2e409f073046aa50092, type: 3}
   m_Name: 
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
   m_EditorClassIdentifier: 
 --- !u!114 &2515197270398685620
 MonoBehaviour:
@@ -198,31 +226,57 @@ AnimatorStateTransition:
   m_Conditions: []
   m_DstStateMachine: {fileID: -3674330058892686226}
   m_DstState: {fileID: 0}
+=======
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: isRunning
+    m_EventTreshold: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: 
+    m_EventTreshold: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: 
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 3349593401675557738}
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
   m_TransitionDuration: 0.25
   m_TransitionOffset: 0
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
   m_ExitTime: 0.75
+=======
+  m_ExitTime: 0
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
 --- !u!1102 &9052723762798852577
+=======
+--- !u!1102 &3347317365371517120
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Walking
+  m_Name: Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
+<<<<<<< HEAD:Assets/Animations/spritesheet-characters-double_0.controller
   - {fileID: -8493590768246806142}
   - {fileID: -1370346800418764201}
+=======
+  - {fileID: 975576119833805452}
+>>>>>>> 0a2c6bc59111c17171d2450435e21cda8bbd027c:Assets/Animations/PlayerAnimation.controller
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
@@ -232,7 +286,34 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 0}
+  m_Motion: {fileID: 7400000, guid: c83e43e54ef1ba34b95fd1b5c8d6a388, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &3349593401675557738
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Run
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions:
+  - {fileID: -5549275692911507326}
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 0aba9aff57cf7e7488a5b441ae5150f1, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
