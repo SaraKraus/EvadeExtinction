@@ -21,7 +21,7 @@ public class NewEnemyDamage : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            newplayerHealth.TakeDamage(damage);
+            newplayerHealth.ApplyDamage(damage);
         }
     }
 }
