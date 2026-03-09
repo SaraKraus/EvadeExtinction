@@ -4,15 +4,15 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [SerializeField] float maxHealth = 100f;
-    [SerializeField] float invulnerabilityDuration = 1f;
-    [SerializeField] float blinkInterval = 0.1f;
+    //[SerializeField] float invulnerabilityDuration = 1f;
+    //[SerializeField] float blinkInterval = 0.1f;
 
     float currentHealth;
-    float invulnerabilityTimer;
+    //float invulnerabilityTimer;
 
     SpriteRenderer sprite;
-    float blinkTimer;
-    bool blinking;
+    //float blinkTimer;
+    //bool blinking;
 
     void Awake()
     {
@@ -20,21 +20,21 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         sprite = GetComponent<SpriteRenderer>();
     }
 
-    void Update()
+    /*void Update()
     {
         if (invulnerabilityTimer > 0f)
             invulnerabilityTimer -= Time.deltaTime;
 
         HandleBlink();
-    }
+    }*/
 
     public bool ApplyDamage(float amount)
     {
-        if (currentHealth <= 0f || invulnerabilityTimer > 0f)
+        if (currentHealth <= 0f/* || invulnerabilityTimer > 0f*/)
             return false;
 
         currentHealth -= amount;
-        CameraShakeManager.Instance.Shake(2f, 0.25f);
+        //CameraShakeManager.Instance.Shake(2f, 0.25f);
 
         if (currentHealth <= 0f)
         {
@@ -42,12 +42,12 @@ public class PlayerHealth : MonoBehaviour, IDamageable
             return true;
         }
 
-        invulnerabilityTimer = invulnerabilityDuration;
-        StartBlink(invulnerabilityDuration);
+        //invulnerabilityTimer = invulnerabilityDuration;
+        //StartBlink(invulnerabilityDuration);
         return true;
     }
 
-    void StartBlink(float duration)
+    /*void StartBlink(float duration)
     {
         blinking = true;
         blinkTimer = duration;
@@ -67,7 +67,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
         sprite.enabled =
             Mathf.FloorToInt(blinkTimer / blinkInterval) % 2 == 0;
-    }
+    }*/
 
     void Die()
     {

@@ -16,7 +16,7 @@ public class RespawnTrigger : MonoBehaviour
                 // Optionally restore health or reset state here
             }
         }
-        else if (collision.CompareTag("Enemy"))
+        /*else if (collision.CompareTag("Enemy"))
         {
             var enemy = collision.GetComponent<EnemyAI>();
             if (enemy != null)
@@ -24,6 +24,6 @@ public class RespawnTrigger : MonoBehaviour
                 collision.transform.position = enemyRespawnPosition;
                 // Optionally restore health or reset state here
             }
-        }
+        }*/
     }
 }
