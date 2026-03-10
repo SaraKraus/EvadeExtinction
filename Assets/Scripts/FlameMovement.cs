@@ -4,11 +4,11 @@ public class FlameMovement : MonoBehaviour
 {
 
     public GameObject Flames;
-    public GameObject End;
+    public GameObject FinishPoint;
         public float speed;
 
     void FixedUpdate()
     {
-        Flames.transform.position = Vector2.MoveTowards(Flames.transform.position, End.transform.position, speed);
+        Flames.transform.position = Vector2.MoveTowards(Flames.transform.position, FinishPoint.transform.position, speed);
     }
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fe9a5a5bcca3e5f4d88d28123d195837
+guid: a914c653c610be1409fd6e8ad119bfb2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2820143329777312509
-    second: Frog_0
+      213: -471112048216794198
+    second: finishline_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,9 +49,9 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 0
-  alignment: 7
+  alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 600
+  spritePixelsToUnits: 200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -73,7 +73,7 @@ TextureImporter:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 16384
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
     textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Frog_0
+      name: finishline_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 840
-        height: 859
+        width: 740
+        height: 740
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df2601baa69232720800000000000000
-      internalID: 2820143329777312509
+      spriteID: aab91a496164679f0800000000000000
+      internalID: -471112048216794198
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Frog_0: 2820143329777312509
+      finishline_0: -471112048216794198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

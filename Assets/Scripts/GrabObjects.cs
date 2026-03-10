@@ -7,26 +7,38 @@ public class GrabObjects : MonoBehaviour
     [SerializeField]
     private Transform grabPoint;
 
-    private GameObject grabbedObject;
+    private Transform lastObject;
     private int layerIndex;
 
     private void Start()
     {
         layerIndex = LayerMask.NameToLayer("Objects");
+        lastObject = grabPoint;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.layer == layerIndex && grabbedObject == null)
+        if(collision.gameObject.layer == layerIndex )
         {
-            grabbedObject = collision.gameObject;
+            GameObject obj = collision.gameObject;
 
-            Rigidbody2D rb = grabbedObject.GetComponent<Rigidbody2D>();
+            Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
             rb.isKinematic = true;
 
-           // grabbedObject.transform.position = grabPoint.position;
-            grabbedObject.transform.SetParent(grabPoint);
-            grabbedObject.transform.localPosition = Vector3.zero;
+            SpriteRenderer lastSR = lastObject.GetComponent<SpriteRenderer>();
+            SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
+
+            float offset = 1f;
+
+            if (lastSR != null && objSR != null)
+            {
+                offset = lastSR.bounds.size.y;
+            }
+
+            obj.transform.SetParent(lastObject);
+            obj.transform.localPosition = new (0, offset, 0);
+
+            lastObject = obj.transform;
         }
     }
 }
