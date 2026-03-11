@@ -343,6 +343,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
+  Level: Level2
 --- !u!114 &22968238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1051,7 +1052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1bbc827d8042464b99eb7df58b8aee8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Flames: {fileID: 777684515}
   FinishPoint: {fileID: 0}
   speed: 0.03
 --- !u!114 &777684522

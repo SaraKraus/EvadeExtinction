@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - Frog
   - FinishPoint
+  - Flames
   layers:
   - Default
   - TransparentFX

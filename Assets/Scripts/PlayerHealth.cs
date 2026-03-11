@@ -1,9 +1,11 @@
 using UnityEngine;
+using System.Collections;
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [SerializeField] float maxHealth = 100f;
+    public string Level;
     //[SerializeField] float invulnerabilityDuration = 1f;
     //[SerializeField] float blinkInterval = 0.1f;
 
@@ -14,11 +16,44 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     //float blinkTimer;
     //bool blinking;
 
-    void Awake()
+
+
+    Vector2 startPos;
+    SpriteRenderer spriteRenderer;
+
+     void Awake()
     {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        startPos = transform.position;
         currentHealth = maxHealth;
         sprite = GetComponent<SpriteRenderer>();
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Flames"))
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        SceneLoader.Instance.LoadScene(Level);
+        StartCoroutine(Respawn(10f));
+    }
+
+    IEnumerator Respawn(float duration)
+    {
+        spriteRenderer.enabled = false;
+        yield return new WaitForSeconds(duration);
+        transform.position = startPos;
+        spriteRenderer.enabled = true;
+    }
+
+   
+
+   
 
     /*void Update()
     {
@@ -69,8 +104,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
             Mathf.FloorToInt(blinkTimer / blinkInterval) % 2 == 0;
     }*/
 
-    void Die()
-    {
-        gameObject.SetActive(false);
-    }
+   // void Die()
+  //  {
+  // }
 }
