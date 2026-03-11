@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class FinishPoint : MonoBehaviour
 {
@@ -8,6 +9,7 @@ public class FinishPoint : MonoBehaviour
         {
             Debug.Log("Level Complete!");
             SceneController.instance.NextLevel();
+            //SceneManager.LoadScene/*Async*/(1);
         }
     }
 

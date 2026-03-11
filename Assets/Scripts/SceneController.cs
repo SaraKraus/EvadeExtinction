@@ -28,10 +28,13 @@ public class SceneController : MonoBehaviour
      {
             Debug.Log("No More Levels!");
      }
+
+        //SceneManager.LoadScene/*Async*/(1);
+
    }
 
-   public void LoadScene(string sceneName)
+   /*public void LoadScene(string sceneName)
    {
     SceneManager.LoadSceneAsync(sceneName);
-   }
+   }*/
 }
