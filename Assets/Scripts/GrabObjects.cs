@@ -10,6 +10,9 @@ public class GrabObjects : MonoBehaviour
     private Transform lastObject;
     private int layerIndex;
 
+    private float stackHeight = 1.5f;
+
+
     private void Start()
     {
         layerIndex = LayerMask.NameToLayer("Objects");
@@ -25,23 +28,29 @@ public class GrabObjects : MonoBehaviour
             Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
             rb.isKinematic = true;
 
-            SpriteRenderer lastSR = lastObject.GetComponent<SpriteRenderer>();
             SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
 
-            float offset = 1f;
+            float objHeight = 1f;
 
-            if (lastSR != null && objSR != null)
+            if (objSR != null)
             {
-                offset = lastSR.bounds.size.y;
+
+                objHeight = objSR.sprite.bounds.size.y * 0f;
+
             }
 
-            obj.transform.SetParent(lastObject);
-            obj.transform.localPosition = new (0, offset, 0);
+            obj.transform.SetParent(grabPoint);
+            obj.transform.localPosition = new Vector3(0, stackHeight, 0);
 
-            lastObject = obj.transform;
+            stackHeight += objHeight;
+
+                 if (AudioManager.Instance != null && AudioManager.Instance.collectibleSFX != null)
+             {
+                 AudioManager.Instance.PlaySFX(AudioManager.Instance.collectibleSFX);
+             }
         }
     }
-}
+} 
 
 /*    void Update()
     {

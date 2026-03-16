@@ -8,7 +8,7 @@ public class NewCollectible : MonoBehaviour
     float jumpPower = 5f;
     public bool isGrounded = false;
 
-    private int cowCounter = 0;
+    //private int cowCounter = 0;
    // public TMP Text counterText;
 
     Rigidbody2D rb;

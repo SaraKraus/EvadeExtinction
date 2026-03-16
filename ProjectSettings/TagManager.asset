@@ -9,6 +9,9 @@ TagManager:
   - Frog
   - FinishPoint
   - Flames
+  - Toucan
+  - Jaguar
+  - Audio
   layers:
   - Default
   - TransparentFX

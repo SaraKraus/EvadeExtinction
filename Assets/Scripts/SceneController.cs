@@ -10,7 +10,7 @@ public class SceneController : MonoBehaviour
         if(instance == null)
         {
             instance = this;
-            DontDestroyOnLoad(gameObject);
+            //DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -23,12 +23,7 @@ public class SceneController : MonoBehaviour
         if(nextIndex < SceneManager.sceneCountInBuildSettings)
      {
             SceneManager.LoadSceneAsync(nextIndex);
-        }
-        else
-     {
-            Debug.Log("No More Levels!");
-     }
-
+    }
         //SceneManager.LoadScene/*Async*/(1);
 
    }

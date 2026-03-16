@@ -17,7 +17,6 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     //bool blinking;
 
 
-
     Vector2 startPos;
     SpriteRenderer spriteRenderer;
 
@@ -27,6 +26,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         startPos = transform.position;
         currentHealth = maxHealth;
         sprite = GetComponent<SpriteRenderer>();
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -34,6 +34,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         if(collision.CompareTag("Flames"))
         {
             Die();
+            ObjectManager.Instance.ResetObjects();
         }
     }
 
@@ -41,6 +42,10 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     {
         SceneLoader.Instance.LoadScene(Level);
         StartCoroutine(Respawn(10f));
+         if (AudioManager.Instance != null && AudioManager.Instance.deathSFX != null)
+         {
+         AudioManager.Instance.PlaySFX(AudioManager.Instance.deathSFX);
+         }
     }
 
     IEnumerator Respawn(float duration)
@@ -75,6 +80,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         {
             Die();
             return true;
+
         }
 
         //invulnerabilityTimer = invulnerabilityDuration;
