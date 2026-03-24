@@ -17,11 +17,17 @@ public class SceneController : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    
    public void NextLevel()
    {
      int nextIndex = SceneManager.GetActiveScene().buildIndex + 1;
         if(nextIndex < SceneManager.sceneCountInBuildSettings)
-     {
+    {
             SceneManager.LoadSceneAsync(nextIndex);
     }
         //SceneManager.LoadScene/*Async*/(1);
