@@ -44,9 +44,9 @@ public class GrabObjects : MonoBehaviour
 
             stackHeight += objHeight;
 
-                 if (AudioManager.Instance != null && AudioManager.Instance.collectibleSFX != null)
+                 if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.collectibleSFX != null)
              {
-                 AudioManager.Instance.PlaySFX(AudioManager.Instance.collectibleSFX);
+                 MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.collectibleSFX);
              }
         }
     }

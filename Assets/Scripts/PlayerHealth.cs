@@ -42,9 +42,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     {
         SceneLoader.Instance.LoadScene(Level);
         StartCoroutine(Respawn(10f));
-         if (AudioManager.Instance != null && AudioManager.Instance.deathSFX != null)
+         if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.deathSFX != null)
          {
-         AudioManager.Instance.PlaySFX(AudioManager.Instance.deathSFX);
+         MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.deathSFX);
          }
     }
 

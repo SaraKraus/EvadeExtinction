@@ -1,32 +1,32 @@
-using UnityEngine;
+// using UnityEngine;
 
-public class AudioManager : MonoBehaviour
-{
-    public static AudioManager Instance { get; private set; }
+// public class AudioManager : MonoBehaviour
+// {
+//     public static AudioManager Instance { get; private set; }
 
-    [Header("Audio Sources")]
-    // public AudioSource musicSource;
-    public AudioSource sfxSource;
-    [Header("AudioClips")]
-    // public AudioClip backgroundMusic;
-    public AudioClip jumpSFX;
-    public AudioClip collectibleSFX;
-    public AudioClip stepsSFX;
-    public AudioClip deathSFX;
+//     [Header("Audio Sources")]
+//     // public AudioSource musicSource;
+//     public AudioSource sfxSource;
+//     [Header("AudioClips")]
+//     // public AudioClip backgroundMusic;
+//     public AudioClip jumpSFX;
+//     public AudioClip collectibleSFX;
+//     public AudioClip stepsSFX;
+//     public AudioClip deathSFX;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Awake()
-    {
-        if (Instance == null)
-        {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
+//     // Start is called once before the first execution of Update after the MonoBehaviour is created
+//     void Awake()
+//     {
+//         if (Instance == null)
+//         {
+//             Instance = this;
+//             DontDestroyOnLoad(gameObject);
+//         }
+//         else
+//         {
+//             Destroy(gameObject);
+//         }
+//     }
 
     // private void Start()
     // {
@@ -38,13 +38,13 @@ public class AudioManager : MonoBehaviour
     //     }
     // }
 
-    public void PlaySFX(AudioClip clip)
-    {
-        if (clip != null && sfxSource != null)
-        {
-            sfxSource.PlayOneShot(clip);
-        }
-    }
+    // public void PlaySFX(AudioClip clip)
+    // {
+    //     if (clip != null && sfxSource != null)
+    //     {
+    //         sfxSource.PlayOneShot(clip);
+    //     }
+    // }
 
     // public void PlayMusic(AudioClip clip)
     // {
@@ -72,4 +72,4 @@ public class AudioManager : MonoBehaviour
     //         musicSource.Play();
     //     }
     // }
-}
+// }

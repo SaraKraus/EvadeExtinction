@@ -38,9 +38,9 @@ public class NewPlayerMovement : MonoBehaviour
             isGrounded = false;
             //animator.SetBool("isJumping", !isGrounded); 
             
-             if (AudioManager.Instance != null && AudioManager.Instance.jumpSFX != null)
+             if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.jumpSFX != null)
              {
-                 AudioManager.Instance.PlaySFX(AudioManager.Instance.jumpSFX);
+                 MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.jumpSFX);
              }
         }
 
@@ -71,9 +71,9 @@ public class NewPlayerMovement : MonoBehaviour
 
     public void PlayRunSFX()
     {
-         if (AudioManager.Instance != null && AudioManager.Instance.stepsSFX != null)
+         if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.stepsSFX != null)
          {
-             AudioManager.Instance.PlaySFX(AudioManager.Instance.stepsSFX);
+             MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.stepsSFX);
          }
     }
 
