@@ -12,6 +12,7 @@ TagManager:
   - Toucan
   - Jaguar
   - Audio
+  - Pigeon
   layers:
   - Default
   - TransparentFX
@@ -48,6 +49,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1BackColor
+    uniqueID: 2096463031
+    locked: 0
+  - name: 2BackTrees
+    uniqueID: 2076761219
+    locked: 0
+  - name: 3FrontTrees
+    uniqueID: 3730923023
+    locked: 0
+  - name: 4Shadows
+    uniqueID: 3716884215
+    locked: 0
+  - name: Player
+    uniqueID: 1626716149
     locked: 0
   m_RenderingLayers:
   - Default

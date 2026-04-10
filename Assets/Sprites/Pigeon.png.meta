@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: c4f73fd6a627cc94c884270d531e3a5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9046215376232531194
+    second: Pigeon_0
+  - first:
+      213: 6505781585981187687
+    second: Pigeon_1
+  - first:
+      213: 7945509868782824717
+    second: Pigeon_2
+  - first:
+      213: -4462544756989265850
+    second: Pigeon_3
+  - first:
+      213: -2161084039442597646
+    second: Pigeon_4
+  - first:
+      213: 368401206472315151
+    second: Pigeon_5
+  - first:
+      213: -4940699140528546233
+    second: Pigeon_6
+  - first:
+      213: -586103989124415980
+    second: Pigeon_7
+  - first:
+      213: 3703411224940966394
+    second: Pigeon_8
+  - first:
+      213: 6372109022635956281
+    second: Pigeon_9
+  - first:
+      213: -2246440907128716154
+    second: Pigeon_10
+  - first:
+      213: -8235584965287449032
+    second: Pigeon_11
+  - first:
+      213: -7733202651674577876
+    second: Pigeon_12
+  - first:
+      213: -7660634774396850485
+    second: Pigeon_13
+  - first:
+      213: 4013891864299436077
+    second: Pigeon_14
+  - first:
+      213: 855041845661703581
+    second: Pigeon_15
+  - first:
+      213: -3761801822414066069
+    second: Pigeon_16
+  - first:
+      213: -4040023811282968371
+    second: Pigeon_17
+  - first:
+      213: -2191447005137623934
+    second: Pigeon_18
+  - first:
+      213: -6053714662634215433
+    second: Pigeon_19
+  - first:
+      213: 102753138466248182
+    second: Pigeon_20
+  - first:
+      213: 2173242045069790407
+    second: Pigeon_21
+  - first:
+      213: -434061019460667466
+    second: Pigeon_22
+  - first:
+      213: -668477914316741234
+    second: Pigeon_23
+  - first:
+      213: 2426702069436589115
+    second: Pigeon_24
+  - first:
+      213: 8360021434044164666
+    second: Pigeon_25
+  - first:
+      213: 8679225544402541992
+    second: Pigeon_26
+  - first:
+      213: 3231468756385379438
+    second: Pigeon_27
+  - first:
+      213: 7265451230621324845
+    second: Pigeon_28
+  - first:
+      213: -3743544867034109512
+    second: Pigeon_29
+  - first:
+      213: -4699850035490466286
+    second: Pigeon_30
+  - first:
+      213: -1488290355520009895
+    second: Pigeon_31
+  - first:
+      213: 7135160046799104262
+    second: Pigeon_32
+  - first:
+      213: 714585181559510179
+    second: Pigeon_33
+  - first:
+      213: 2624971302493446036
+    second: Pigeon_34
+  - first:
+      213: 6029737573094743903
+    second: Pigeon_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pigeon_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 637
+        height: 960
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4440ea4fc9a8d70800000000000000
+      internalID: 9046215376232531194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766afa222ed294a50800000000000000
+      internalID: 6505781585981187687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d2928e02f144e60800000000000000
+      internalID: 7945509868782824717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487f55ef2bd112c0800000000000000
+      internalID: -4462544756989265850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f14b14894202e0800000000000000
+      internalID: -2161084039442597646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019b9602f2dc1500800000000000000
+      internalID: 368401206472315151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ed7b20f4c1f6bb0800000000000000
+      internalID: -4940699140528546233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ebcc6f68dbdd7f0800000000000000
+      internalID: -586103989124415980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1fcc733e8256330800000000000000
+      internalID: 3703411224940966394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938174c25674e6850800000000000000
+      internalID: 6372109022635956281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 13
+        width: 616
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684cfa9a5e903d0e0800000000000000
+      internalID: -2246440907128716154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_11
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6e7aab1355bd80800000000000000
+      internalID: -8235584965287449032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f3da19252ea490800000000000000
+      internalID: -7733202651674577876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce221ea245ffa590800000000000000
+      internalID: -7660634774396850485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_14
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f562526534b730800000000000000
+      internalID: 4013891864299436077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d92c64708bddb00800000000000000
+      internalID: 855041845661703581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 811
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ea7936c256bcbc0800000000000000
+      internalID: -3761801822414066069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0eb54afb3fee7c0800000000000000
+      internalID: -4040023811282968371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ada24f8a6691e0800000000000000
+      internalID: -2191447005137623934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72d1a9692ecfba0800000000000000
+      internalID: -6053714662634215433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 698
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f556dd5f6d0d6100800000000000000
+      internalID: 102753138466248182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc045b2028e82e10800000000000000
+      internalID: 2173242045069790407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_22
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7f3347dc7e9f9f0800000000000000
+      internalID: -434061019460667466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_23
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e4f0f0e619b6f0800000000000000
+      internalID: -668477914316741234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_24
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 407
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b342978cca06da120800000000000000
+      internalID: 2426702069436589115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_25
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 444
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aaad27333c40470800000000000000
+      internalID: 8360021434044164666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_26
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 346
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad1c9be5adc27870800000000000000
+      internalID: 8679225544402541992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_27
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64bf1f76bb78dc20800000000000000
+      internalID: 3231468756385379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 261
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26db16766114d460800000000000000
+      internalID: 7265451230621324845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_29
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e1bf07c14c0cc0800000000000000
+      internalID: -3743544867034109512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216dbf82b47c6ceb0800000000000000
+      internalID: -4699850035490466286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95907949ec7885be0800000000000000
+      internalID: -1488290355520009895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 127
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092505424e250360800000000000000
+      internalID: 7135160046799104262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4dc94cf67bae900800000000000000
+      internalID: 714585181559510179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f57beed75cd6420800000000000000
+      internalID: 2624971302493446036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pigeon_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f5325306eeda350800000000000000
+      internalID: 6029737573094743903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: eeeb9b4940b0e4543be9a4eed542b728
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pigeon_0: 9046215376232531194
+      Pigeon_1: 6505781585981187687
+      Pigeon_10: -2246440907128716154
+      Pigeon_11: -8235584965287449032
+      Pigeon_12: -7733202651674577876
+      Pigeon_13: -7660634774396850485
+      Pigeon_14: 4013891864299436077
+      Pigeon_15: 855041845661703581
+      Pigeon_16: -3761801822414066069
+      Pigeon_17: -4040023811282968371
+      Pigeon_18: -2191447005137623934
+      Pigeon_19: -6053714662634215433
+      Pigeon_2: 7945509868782824717
+      Pigeon_20: 102753138466248182
+      Pigeon_21: 2173242045069790407
+      Pigeon_22: -434061019460667466
+      Pigeon_23: -668477914316741234
+      Pigeon_24: 2426702069436589115
+      Pigeon_25: 8360021434044164666
+      Pigeon_26: 8679225544402541992
+      Pigeon_27: 3231468756385379438
+      Pigeon_28: 7265451230621324845
+      Pigeon_29: -3743544867034109512
+      Pigeon_3: -4462544756989265850
+      Pigeon_30: -4699850035490466286
+      Pigeon_31: -1488290355520009895
+      Pigeon_32: 7135160046799104262
+      Pigeon_33: 714585181559510179
+      Pigeon_34: 2624971302493446036
+      Pigeon_35: 6029737573094743903
+      Pigeon_4: -2161084039442597646
+      Pigeon_5: 368401206472315151
+      Pigeon_6: -4940699140528546233
+      Pigeon_7: -586103989124415980
+      Pigeon_8: 3703411224940966394
+      Pigeon_9: 6372109022635956281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

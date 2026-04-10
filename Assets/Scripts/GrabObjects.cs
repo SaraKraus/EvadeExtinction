@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 //using UnityEngine.InputSystem;
 
@@ -10,9 +11,15 @@ public class GrabObjects : MonoBehaviour
     private Transform lastObject;
     private int layerIndex;
 
-    private float stackHeight = 1.5f;
+    private float stackHeight = 1.5f; //decides how far from the player the first animal is displayed
 
-
+    // private void Update()
+    // {
+    //      if(OnTriggerEnter2D == true)
+    //      {
+    //          get transform;
+    //      }
+    // }
     private void Start()
     {
         layerIndex = LayerMask.NameToLayer("Objects");
@@ -32,15 +39,15 @@ public class GrabObjects : MonoBehaviour
 
             float objHeight = 1f;
 
-            if (objSR != null)
+            //objSR != null;
             {
 
-                objHeight = objSR.sprite.bounds.size.y * 0f;
+                objHeight = objSR.sprite.bounds.size.y * 0f; //Decides how far the second animal is drawn above the previous one
 
             }
 
             obj.transform.SetParent(grabPoint);
-            obj.transform.localPosition = new Vector3(0, stackHeight, 0);
+            obj.transform.localPosition = new Vector3(0, stackHeight, 0); //the two numbers just make the sprites disapear???
 
             stackHeight += objHeight;
 
