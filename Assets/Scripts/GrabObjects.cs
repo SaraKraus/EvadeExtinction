@@ -9,7 +9,7 @@ public class GrabObjects : MonoBehaviour
     private Transform lastObject;
     private int layerIndex;
 
-    private float stackHeight = 1.5f; //decides how far from the player the first animal is displayed
+    private float firstObjectHeight = 1.5f; //decides how far from the player the first animal is displayed
 
     // private void Update()
     // {
@@ -79,8 +79,6 @@ public class GrabObjects : MonoBehaviour
             return;
         }
 
-        rb.isKinematic = true;
-
         SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
         if (objSR == null)
         {
@@ -88,12 +86,62 @@ public class GrabObjects : MonoBehaviour
             return;
         }
 
-        float objHeight = 1f;
+        // float objHeight = 1f;
 
-        if (objSR.sprite != null)
+        // if (objSR.sprite != null)
+        // {
+        //     objHeight = objSR.bounds.size.y;
+        // }
+
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+        rb.isKinematic = true;
+
+        // obj.transform.SetParent(transform);
+        Vector3 newPos;
+
+        if (lastObject == grabPoint)
         {
-            objHeight = objSR.sprite.bounds.size.y * 0f;
+            newPos = grabPoint.position + Vector3.up * firstObjectHeight;
         }
+        else
+        {
+            // SpriteRenderer lastSR = lastObject.GetComponent<SpriteRenderer>();
+            // float lastHeight = 1f;
+
+            // if (lastSR != null && lastSR.sprite != null) 
+            //     lastHeight = lastSR.bounds.size.y;
+
+            // newPos = lastObject.position + Vector3.up * ((lastHeight + objHeight) * 0.5f);
+
+            Transform stackPoint = lastObject.Find("StackPoint");
+
+            if (stackPoint != null)
+            {
+                newPos = stackPoint.position;
+            }
+            else
+            {
+                SpriteRenderer lastSR = lastObject.GetComponent<SpriteRenderer>();
+                
+                float lastHeight = 1f;
+                float objHeight = 1f;
+
+                if (lastSR != null)
+                    lastHeight = lastSR.bounds.size.y;
+
+                if (objSR != null)
+                    objHeight = objSR.bounds.size.y;
+
+                newPos = lastObject.position + Vector3.up * ((lastHeight + objHeight) * 0.5f);
+            }
+        }
+
+        obj.transform.position = newPos;
+        obj.transform.SetParent(transform);
+
+        lastObject = obj.transform;
+
     }
 } 
 

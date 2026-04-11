@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: ed0118873a2d82d4695033c14e43b005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2754741651945557163
+    second: L1ConnectingClouds_0
+  - first:
+      213: -35415590393712913
+    second: L1ConnectingClouds_1
+  - first:
+      213: -1066377479754743660
+    second: L1ConnectingClouds_2
+  - first:
+      213: 1117288937973261189
+    second: L1ConnectingClouds_3
+  - first:
+      213: 4812536714385983575
+    second: L1ConnectingClouds_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L1ConnectingClouds_0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ffc3101135c9d0800000000000000
+      internalID: -2754741651945557163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee621b45bd228ff0800000000000000
+      internalID: -35415590393712913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900eb205577331f0800000000000000
+      internalID: -1066377479754743660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ae539e58618f00800000000000000
+      internalID: 1117288937973261189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588081d4a099c240800000000000000
+      internalID: 4812536714385983575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015aeb9749b0434e9237b7a4b325c1a
+      internalID: 1547786227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca2d0ba41b850418ea5e56365a1c11
+      internalID: 1342055107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e62779c2fbf38d4daa911b665c417b8
+      internalID: -1665198840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94767c115c776a845b47269fb185d3a4
+      internalID: 1530220890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa8507a464b6d346a95b11793c7125b
+      internalID: -408638124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201900dce43b47f4d94ba3406cc1e535
+      internalID: 567338307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d083cd4604b62f46985ef619bca88ad
+      internalID: 1004554592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae7f467576bac4893e64c2702bd9d8
+      internalID: 968617150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c51c9239bf2840b2c34268d94a51a
+      internalID: 669711060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227491f491602d94b9e330610c41ed2d
+      internalID: -1977760404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bcd5516c425dd4190216f412985d12
+      internalID: 446683576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc402e5df8dc3b49bc658b09b2dad0b
+      internalID: 1963070833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b0c1973a8070409524125404e5a1c
+      internalID: -1627599543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff308e7d85a0d429b2aa2b829e0982
+      internalID: 1229377970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943e40e947724f4996ea059c5d68b3b
+      internalID: 1449532883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9941a6c490621946af96e6dca2bff3a
+      internalID: -1418655248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c0345c2f803d45a43f06d04481b54
+      internalID: -476344569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87faab719e5c04f81e054f4fff804f
+      internalID: 1716483853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc6fefe24fa4b4bad2d999a70afe04
+      internalID: 286590378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a2b0ff9b0bfc4408ee0b3172ba6fa6
+      internalID: -1915752444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdcdcfc62885394cafebbf0adb3e62f
+      internalID: 869756056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d859818a1dcc24e856526c59da807b
+      internalID: -357738876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3aa0e5d1a918e4988181a1e7ef5b4d
+      internalID: -1181593562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624d15a94d2f1a489eb3d15cca2106c
+      internalID: 1030654248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483cb680c098a94d874442bf17cb400
+      internalID: 450592076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb49bb4d40ff304eb3bdaf5521deff9
+      internalID: 1143921171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da86e3a63db524eb6d9392ffe124f2
+      internalID: -459955929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881167acdebd90d40b2cf9c6340294d7
+      internalID: 136242302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e888ec5e24da134d8dd6627ebf3180f
+      internalID: 1081275848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340eed2fca9b8a49aec644e67e48ae2
+      internalID: 1354079119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f7c48dd9f9244d87d5aae5962bbcf
+      internalID: -1199771826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80761e68f529d49449800be53a87455a
+      internalID: -253634704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8416e56fbc19e4f9f654ca860c5199
+      internalID: 1653468788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6b58cd31c5e94ca7f6067820e1a64
+      internalID: -882546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd7b44889c902458abd5cca8bcf06f
+      internalID: 1556956775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebcbf92739653544a12ddd2e17e88a7
+      internalID: 114616172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544ae32881f9f04bb92bc15a038f0c6
+      internalID: -506205341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26edea381cb9afb46a380ccf80367876
+      internalID: -581774963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef079dc8f1af8446aaccb49b5dd3d1b
+      internalID: -1391268545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_44
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f84d920dd30a054d8dccd2c64ea38cd
+      internalID: 473028613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494627d1c04f214f985a0ce28adfc9c
+      internalID: -1277890627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba07b1a152ee544f95f7e0c5904250b
+      internalID: -52291098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fdc5a94d645f54eacbe19ef176e224
+      internalID: -1923060965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358c0f08543a62488b7307d59780da5
+      internalID: -1733095939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f9a88841a3b14b8b489041e020d8b
+      internalID: 932127169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45be1b7c9babc438480b9491af6efd
+      internalID: -1255050508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca07367003a6b46ae1d840a1b5ebce
+      internalID: -990727319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e0715b454996499e7cb3f1afa4279
+      internalID: 2051150831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20527ed0d3a20914c99bf21e6795153d
+      internalID: 1237560397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6aa1708af41b4e913989cc148f93c
+      internalID: -189370167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003fe5da531cf5845a31b37450cc9eac
+      internalID: -1705533311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be9031527ee52946a46242f25d3d461
+      internalID: 968867168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_57
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dad1c10e401984d9a28d4f035e31b5
+      internalID: -1295811868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3374abb52df944ab14c5ca2a7e1891
+      internalID: -778035299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b2f222bdbe9a341999705fac48ea93
+      internalID: -15486058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87230c1dd016324eb040fe5f420d96d
+      internalID: 1981275474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7de6187bb9f3f42b0d8fe7f6437a40
+      internalID: -132161987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef25631ec82bf4e9f7209ecf0418d8
+      internalID: -1601311445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c444a51c0bb2524eb1e25fee38a146c
+      internalID: -768829291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_64
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ce4d1b70d6535428f96012ab2ca641
+      internalID: -1025083391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingClouds_65
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc95154cbcaadf4f8e87f547ed99b12
+      internalID: -1825494068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78f86cdc6e70ac54f89d3acf3515788d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      L1ConnectingClouds_0: -2754741651945557163
+      L1ConnectingClouds_1: -35415590393712913
+      L1ConnectingClouds_10: 567338307
+      L1ConnectingClouds_11: 1004554592
+      L1ConnectingClouds_12: 968617150
+      L1ConnectingClouds_13: 669711060
+      L1ConnectingClouds_14: -1977760404
+      L1ConnectingClouds_15: 446683576
+      L1ConnectingClouds_16: 1963070833
+      L1ConnectingClouds_17: -1627599543
+      L1ConnectingClouds_18: 1229377970
+      L1ConnectingClouds_19: 1449532883
+      L1ConnectingClouds_2: -1066377479754743660
+      L1ConnectingClouds_20: -1418655248
+      L1ConnectingClouds_21: -476344569
+      L1ConnectingClouds_22: 1716483853
+      L1ConnectingClouds_23: 286590378
+      L1ConnectingClouds_24: -1915752444
+      L1ConnectingClouds_25: 869756056
+      L1ConnectingClouds_26: -357738876
+      L1ConnectingClouds_27: -1181593562
+      L1ConnectingClouds_28: 1030654248
+      L1ConnectingClouds_29: 450592076
+      L1ConnectingClouds_3: 1117288937973261189
+      L1ConnectingClouds_30: 1143921171
+      L1ConnectingClouds_31: -459955929
+      L1ConnectingClouds_32: 136242302
+      L1ConnectingClouds_33: 1081275848
+      L1ConnectingClouds_34: 1354079119
+      L1ConnectingClouds_35: -1199771826
+      L1ConnectingClouds_36: -253634704
+      L1ConnectingClouds_37: 1653468788
+      L1ConnectingClouds_38: -882546569
+      L1ConnectingClouds_39: 1556956775
+      L1ConnectingClouds_4: 4812536714385983575
+      L1ConnectingClouds_40: 114616172
+      L1ConnectingClouds_41: -506205341
+      L1ConnectingClouds_42: -581774963
+      L1ConnectingClouds_43: -1391268545
+      L1ConnectingClouds_44: 473028613
+      L1ConnectingClouds_45: -1277890627
+      L1ConnectingClouds_46: -52291098
+      L1ConnectingClouds_47: -1923060965
+      L1ConnectingClouds_48: -1733095939
+      L1ConnectingClouds_49: 932127169
+      L1ConnectingClouds_5: 1547786227
+      L1ConnectingClouds_50: -1255050508
+      L1ConnectingClouds_51: -990727319
+      L1ConnectingClouds_52: 2051150831
+      L1ConnectingClouds_53: 1237560397
+      L1ConnectingClouds_54: -189370167
+      L1ConnectingClouds_55: -1705533311
+      L1ConnectingClouds_56: 968867168
+      L1ConnectingClouds_57: -1295811868
+      L1ConnectingClouds_58: -778035299
+      L1ConnectingClouds_59: -15486058
+      L1ConnectingClouds_6: 1342055107
+      L1ConnectingClouds_60: 1981275474
+      L1ConnectingClouds_61: -132161987
+      L1ConnectingClouds_62: -1601311445
+      L1ConnectingClouds_63: -768829291
+      L1ConnectingClouds_64: -1025083391
+      L1ConnectingClouds_65: -1825494068
+      L1ConnectingClouds_7: -1665198840
+      L1ConnectingClouds_8: 1530220890
+      L1ConnectingClouds_9: -408638124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
