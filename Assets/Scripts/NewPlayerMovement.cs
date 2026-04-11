@@ -77,6 +77,14 @@ public class NewPlayerMovement : MonoBehaviour
          }
     }
 
+    public void PlayJumpSFX()
+    {
+         if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.jumpSFX != null)
+         {
+             MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.jumpSFX);
+         }
+    }
+
     // private void OnTriggerEnter2D(Collider2D collision)
     // {
     //    isGrounded = true;

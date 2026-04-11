@@ -1,0 +1,6665 @@
+fileFormatVersion: 2
+guid: 45cf9e5a12c968e45b724b652421a39e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3449147968141587651
+    second: L1ConnectingBackground_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: L1ConnectingBackground_0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b0925823a2220d0800000000000000
+      internalID: -3449147968141587651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a45c583bf40e646857ef2fef12b21a
+      internalID: -934087309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7726c7cff7ba340ac58efef9055aa2
+      internalID: 985327533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfeefdbf841cac44af339e4a08678f3
+      internalID: 271103134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a370bc5a415aae489fcd79514d2b745
+      internalID: 381073294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943eb61917168cb4881c0ab7e7bb7cc0
+      internalID: -1779854670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3e7dc65e7e004783e7756f816b7ec
+      internalID: -2026080893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa9086ea70fee4093f93e7f3047784
+      internalID: 604724284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_8
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f795cdf5017e84ba29440087b76812
+      internalID: -959010933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32a8efcd4b12c45a23527c2b4c2b2f
+      internalID: -1379868417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258563b0ef5074a4d8cdc89604564fde
+      internalID: 2082079349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b454feaf8cac4f4f86470387aa4f6c5
+      internalID: 1297506668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4244944ebbba9948adfa46393bdd875
+      internalID: -1481927149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111da2aa255149141b024e2e3b8c67eb
+      internalID: -599786247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97d78ad62b59140bd48ada0df1e118
+      internalID: 372382769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37bac8e836b314cab05da16a8d374b
+      internalID: 60457466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7d9661d3a88840b5c65398fe443b7
+      internalID: -1661139417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca0e69b0237ad24792492bb4bee4857
+      internalID: -1866207236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b476fa60aef1e24b829537c2614d09d
+      internalID: 2135488700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eec5e44acb30554c8febbe6940c9570
+      internalID: -489396495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cad395735afb7b4ba75f338f47bee12
+      internalID: -1756389620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c3f063d3d234d4ca78f67092679f57
+      internalID: 1062391723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d92f054f379a458e18bf35ea3dbd7
+      internalID: -161484342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af371ad29d7741040b1b62c32ab992a6
+      internalID: -312967695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463b6c00ab642a42a42d9fabe33bc62
+      internalID: 749252037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb11a79875eaf41b332c3d433333c7
+      internalID: -577120340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa097f5aaedf1a4589916b2d49a7348
+      internalID: 1552810150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e412b1414f1064183facb72b6c0248
+      internalID: -418234713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f11d3fe1a89a6047997f1a693396588
+      internalID: 371638626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba0227779961514aab295ae2b9536e9
+      internalID: 853059856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a82b9805066f49a1da4dc76969c78
+      internalID: 680957961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f1b25d8c7332409b41488c7492822
+      internalID: -1813852143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2090c32f5c174409cfe6ded69ae575
+      internalID: -1550020106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf98305da3508438b4a01eb9480e0d
+      internalID: -197138275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926a1bc43fbd2348ae365967dad90d0
+      internalID: -324219700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a048ec781ceb9747a7c2f8f96458bd6
+      internalID: 1319918989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e5a1aa2c37bca4d9d990040803934c
+      internalID: -2111688829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_37
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63f8ba2b7e2a548a9be6d2aded2668
+      internalID: 1757427335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890082892bcd4c04a83db3927593d96a
+      internalID: 726382655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9105fc24618eb4db13fd4fcf948c83
+      internalID: -2108670700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf238a36264b0f469751043e9b4c7b2
+      internalID: 2031605909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9c3dd8b92d5849a4447598b8c1bbe
+      internalID: -1321365275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228c041afff35849bc43e9ebbcd0286
+      internalID: -994176919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71213140a5b33b4b8bc14ba769ab73c
+      internalID: -1312363638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36433d029b4242b4d82ae8056a6f9be3
+      internalID: 2036503177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5347e8cf02b56489a90186aac397e8
+      internalID: 1820552075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e1c0a22a49f74293c88e14912a315
+      internalID: -1694959422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b8b1074b0bbec42b73b01a487acf7a
+      internalID: -2025301873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94843fe984233124290f286633ae16b2
+      internalID: -890888580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52994795eb0e20a429217c02eaa11d64
+      internalID: 1485363043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6e7714e1b957144bb0650d7e5e8b17
+      internalID: -1135956002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c46a92e374d345831ed2b1feb307a
+      internalID: -894907195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543cdca5234081408c9c54ee0e01a3e
+      internalID: -1138233916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c867acb551f5e469a5ef68b5adf553
+      internalID: -415455879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97648a022a3ebbd46895aefead0a82d8
+      internalID: -552656413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_55
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30c965097bb8e47bb2e1f2faac2885
+      internalID: 1949258822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823a64ac8e6b6a49972e01e14f5b5a4
+      internalID: -1504597016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404c7bfbe476b44e8cf8af06a040983
+      internalID: 270391182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151763909702fe4391d9be3f3ac5cfc
+      internalID: 1159682194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752444471e56024182b2fae51c8833e
+      internalID: -499538315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff80741e88e0884d9777bc7fefd0e21
+      internalID: 119243663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_61
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0faf3ec70b5b42bfa05aece8ec7d0
+      internalID: 676024244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b2491062b1a14787442fc93f5177b
+      internalID: -1697869608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00669be71e6f344d9ab05c6943d90ab
+      internalID: -1181824344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_64
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517d8221428ad2409d7c475cc91a67f
+      internalID: 1862004203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_65
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea214012cad5e87499080490e9d06b79
+      internalID: 749130161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17150aff8c8b512479f97a8061a0a330
+      internalID: 966186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8a4001aac7004982b64c59c98a198
+      internalID: -62855435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caefea3db0958c4d8fa5b1013df39d6
+      internalID: -1952632158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d93efda2d8b04d9ff56b2019ea645
+      internalID: 2017465399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1532799757b50e64a8c32cf56878475d
+      internalID: -1271532580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_71
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bebf45df7bce44aad76f82141d8bb5
+      internalID: 2105247437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d925457f065cf4498f6648e9ce71e8
+      internalID: -351529586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc201a745f959a4c9c438519172362d
+      internalID: 1080382614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_74
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c0c177a4fa3e4a8f5d6abb3f572db
+      internalID: -880890596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_75
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445051663b87d246b9832390933e960
+      internalID: -1105841786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30561bc44140b64ebc7ee958962cb01
+      internalID: -1917834967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_77
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28fc7857a94a5d4c85007614409c783
+      internalID: 620358515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_78
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae92165f9e66b48b8aa99f49571be2
+      internalID: -1818049659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec3631ff7a0734088ef4ebf953344a
+      internalID: 1918352616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f41876478ed6d4f882140b71b50e7a
+      internalID: -1867883408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cdd22f3bafb8e4a82ebf64a2e31152
+      internalID: 1436548870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_82
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2cb84aa9782a4087b9b4c028f834e
+      internalID: -1115455991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70e31ebeb2c7440941b91a7458f0f5
+      internalID: -1948785214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e794bed203e633a40ba39e0c7cdcf9e9
+      internalID: -398263343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31f09e1cd612b4b9e0137e623d18cc
+      internalID: -566857924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_86
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c2d90a2e82d146bbc0d5a696e641d
+      internalID: -1543811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d803a3b22770144a9e343f93d7b6a95
+      internalID: -1847511120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_88
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5009e1c3b5e068241abceb496c2a5091
+      internalID: 1061103761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0e089d68fc24a42b9dcc735274f980
+      internalID: 1269851852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99488e63196414d921aac74c1ef3b4
+      internalID: 584066700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c8083e8e099348b38da51b4f6eb36
+      internalID: 844765960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_92
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83d7b6282867b4abeb3b8fd860bc13
+      internalID: 1286608918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8536433bb97ae42818fd844a92e1c6
+      internalID: 1470354643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_94
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b33ee63190c1438c19a76802cc1e1
+      internalID: -1827054736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_95
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a100ff16d6c7fae47949f0cbfdaa45f6
+      internalID: -1280467445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570d4d5af29d99448975a70dde89e09
+      internalID: -1218766631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b458d7a50e3a70e41bf3ea41e5d60214
+      internalID: 1954956020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a5ec77cec534468527c582e7898cc
+      internalID: 23649797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_99
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b035b0dc18760a24f93bfe34a152ec95
+      internalID: -7862513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5afb0187f70f48bf5805a70d01666
+      internalID: -753423941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_101
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7117c0046132f74a94535cab5dcf42b
+      internalID: 1582807676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_102
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d102c621498d674085b96b597541ad4
+      internalID: -16495090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_103
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef81176c33d6d4992e0989e7a92147
+      internalID: -1623472184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_104
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6605aa599e483b458ae24ad01977f81
+      internalID: 1859659362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_105
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45abd405cd4f845b7925e4c025ca17
+      internalID: -1076236673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d12a39d9f7cf44a9e16fa3ab6f3ea
+      internalID: -60783769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b5e91e9fc05e4a928c40407295bcc
+      internalID: 1801849358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_108
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af3904c78a264248b4672909462f5f1
+      internalID: -1007492307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_109
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c70df0c4fa7a34d9fc81802d7ee4de
+      internalID: 272314199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672914c7642110428699efcd7035b1f
+      internalID: -95604670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc71197a3c4a41f44979c5a8d92e753e
+      internalID: -1663871243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_112
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712d1de2ab6a116449f4945bf11c57e5
+      internalID: 65275050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc1710f244f2742b20fadc6fad076f
+      internalID: -615050567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_114
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb140d901ef164e871d43db4f51db1
+      internalID: 989030484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9058c9c7ccc940aa595a2b12dbb23
+      internalID: -918356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_116
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefad35dae5004e44829f9784a471a4a
+      internalID: -676587508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_117
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f8fd3a763c7d4aadc830b5420a8b5
+      internalID: 1233809660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_118
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a18d06fbf7274cb221903272ab49c
+      internalID: 572011842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_119
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d852c4a87faa48a635013a9bc71e5
+      internalID: 426781598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_120
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148552422b745c24d9398383805ce529
+      internalID: -1006870626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_121
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455a70017d28094f963c86a478f1b2b
+      internalID: -1843561188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607f6977c9d87141a3fc7ee4e667b34
+      internalID: -386139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_123
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5344adf07bcb4ab2ccccb451c777a
+      internalID: -1378624878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_124
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97c8ed3341c1b4887774c845249a33
+      internalID: -1302036206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810a52db22994848bd6b351119454e8
+      internalID: 2067229656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_126
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a66f4a43dfea48945f2714ac8a847
+      internalID: -1447852069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_127
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcedf143be5e8f74487824150b7894cd
+      internalID: -34495380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_128
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3467334665dd10e4bb5befe7004c7055
+      internalID: -1725316594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_129
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd901a9cd9ff8488d91a931969e3e2
+      internalID: 1002186711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_130
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f9d082274d2e04687e11eb6240db8b
+      internalID: -195743976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_131
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398f5b5754ef10945830bd55892cf92c
+      internalID: 1770060123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_132
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d121d60b5b6fc04e98a81dd222ea68c
+      internalID: 1724531301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d13b1aaf7da64685e3824939e426c
+      internalID: -2086873789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2acf7d4df7c710408314b27abeb2913
+      internalID: 584693209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_135
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26595cc9fea5a4a9059a699c87e70f
+      internalID: -125190854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_136
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0803c43c15ba5f47babc81878d3f48e
+      internalID: -683099885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf19d795fed144ead619281614c159
+      internalID: 8246589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_138
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496cf409227fb5644bb9167b7f546d48
+      internalID: 1562013157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_139
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd41e5fc4ace84ca8a61d71efe15ce
+      internalID: -726644068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_140
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c09a46e5aef6448ef924ab8bee2ba
+      internalID: 1062934777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_141
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e959826082f0340b35abba9d70074d
+      internalID: -216270999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_142
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b920371407a9041b6f48f49185a53c
+      internalID: -1133247164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3246a4c7a3856584f93fd8169ea0a726
+      internalID: -1198723481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_144
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b69129c700f240851fab9f6683621
+      internalID: -1584942071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_145
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c76102d6337b146be480b7cdea8800
+      internalID: -125417747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_146
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dc163d39108994db44ac36ec9b5731
+      internalID: -1349070035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_147
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf62d5f625087469722b4d65fc2772
+      internalID: 31980089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_148
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f488d957083d043aa042fa7908be70
+      internalID: -889999684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_149
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790332b92253ba6469cd89186ee3e86a
+      internalID: -1804752031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab4eba5f4524104daf2213e05bffdb3
+      internalID: 2020637592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_151
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f9c5a88fcf56439629b38a4cba4f6
+      internalID: 17244404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f34620175a844d89e439e5bfe02b9
+      internalID: -782542982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_153
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d07ec8950d5f240a0dfc7487fc0338
+      internalID: 998079681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_154
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aea2a8fe5dfc74c85d8664d1c9ea55
+      internalID: -1945208201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_155
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbf6773741ea54e8d673cb5696d07d
+      internalID: 1361351112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799802d44f7c6b846a00666837eae8e4
+      internalID: -483673086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_157
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0626b8c6c76a4e891e0515cc02e16
+      internalID: 1569848837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_158
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7f450e5a7aacc489d594ee0f866ddc
+      internalID: 1532329190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_159
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b151dfd7fa5404282da0a3fc1b0a2b
+      internalID: -118568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f794046cfd1d54e9650a6181797b87
+      internalID: -2116773711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_161
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c2eb052082d914aabf96bd2d3cf1a7
+      internalID: -637058696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_162
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee13ebba018a04688ca3e658e7af98
+      internalID: -409038980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_163
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366cb4ee7564074ba081dbae6a669f0
+      internalID: 2136656266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_164
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c31913f078f6944bd4c9e9b5c1b78e
+      internalID: -1453730089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_165
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581483632cc4c544c991c40c0011183a
+      internalID: 1087641087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_166
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd1b135a54617544bb0a1318f614c5f
+      internalID: 1933399913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_167
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a5d00b7606614b8e6db67aca60c38
+      internalID: -861026441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_168
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd567fbe5cc9354982d334adf6b8cc5
+      internalID: 1269716482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_169
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22e67a417dd6648b99b066e99d2c11
+      internalID: 1466161219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_170
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdabd3516aa324f84a0751a7e1dee5
+      internalID: -1549354121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_171
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c7f2517d6160428e9e96c40c10297
+      internalID: -2096333904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_172
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc6d073edb0af147aa015c761a38254
+      internalID: 1892631777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_173
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa57dd3b1ddce1479317e6da1b4e240
+      internalID: -422284531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70235f5d7c5f821468cd0725e7fd8394
+      internalID: -446299748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ab159eee8cbf46bdea2c422cab925
+      internalID: 1534207244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_176
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f441f407a074549b139f74f2a7b3c5
+      internalID: 725682398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_177
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd5f720b7551947a684b4bd2a75433
+      internalID: 1150615072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_178
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a204bd566d0e348a60bb72d6fd6dc0
+      internalID: -1313163669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_179
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d11ecf210f3ad346b2ce329af218ae1
+      internalID: 1821720511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_180
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c99cdf52cad6243867e498057f1585
+      internalID: 1271520264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_181
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db83ff5146d6aa4aa1e382fb6666061
+      internalID: 925067168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_182
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46325e12bd29246ae54976dba41a03
+      internalID: -625851431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_183
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4780255324f13b4589189fbd09117f3
+      internalID: -1224315447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_184
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed08acf8507984fac7842e27d2ddc3
+      internalID: -499527154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_185
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a760c4d67117246b2e137f860c95ce
+      internalID: -1257455771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_186
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87637fc1b28e804e8ee32c78dd164c5
+      internalID: -1578748605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_187
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6d00109162a854892e22cbe8a56903
+      internalID: 2077113544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6450ce8c5d1e40a4dea1143eac0bc
+      internalID: 338598213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_189
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ff44b774d9be4890f599b2b06025f
+      internalID: 992126947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_190
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb32b9b0b06e74e8658eace067cfbc
+      internalID: 1839118908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_191
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1398c2ba8b61045a35eb716c9ce519
+      internalID: 1025641427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_192
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd961e38230591d43bf3d720e3e6d893
+      internalID: 1677462668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_193
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbde3c55b4b7d548b22d85cf313b9f5
+      internalID: 869401699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d85e1b3b8d75794497964d8de85148c
+      internalID: -837413239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_195
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400cb6599a6b4294e85983ef2f1081db
+      internalID: -520667911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_196
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfc11e808d788d418c441e6f86f146d
+      internalID: -1015088181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_197
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797712febea6a44aa7d6634d0857ae6
+      internalID: 729031844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_198
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bff087fb4cf54ba6392f0855212c9
+      internalID: -1449392373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_199
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2897f9a7697ca419e6788ee4453434
+      internalID: 1754237527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_200
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf694a1fbd370b4fa8041cb2c5029ab
+      internalID: -232460971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_201
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8740e3f8bf6f4b8ac9e30e31332e5
+      internalID: -1593176828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4373025ee2744419f94e20835bb457
+      internalID: 1959412668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_203
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831dd51037b2e034e9c08dc2f4de2941
+      internalID: -434022862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_204
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b689c52ea327d646a4dd026fa63645d
+      internalID: 1472040734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_205
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f626b46b29be14fb2a77ce964badef
+      internalID: -1207081524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_206
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b02b76c5847144689b1fbe22636005
+      internalID: -1646491456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_207
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab2db6d54b6fd42aabcca1c8a5b9b1
+      internalID: 450556265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_208
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc78fb23bdee84b8e7c9e662153dfe
+      internalID: -682522879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_209
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11339c2baf8e8a41b3abf28b7f74001
+      internalID: -171781277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_210
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea777a13f768a4f46a5f0689aa773990
+      internalID: -826356419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_211
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935dfb188cf5ef4e8d26b21b0f5ba5a
+      internalID: 799109365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_212
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439866d414bfe946945e176cd7480b8
+      internalID: -328491460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_213
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b2b1014a908e449b9a0a3e89227f31
+      internalID: -582483786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_214
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca847885b0c5ff46aca484f75b17616
+      internalID: -506965401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412cea425fcefa40b74142e7752c887
+      internalID: 786115769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_216
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f96bcf91167c4a97fc19e750732a9
+      internalID: -526012156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_217
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15791bf6e7da7241ad0a2acd3198fd2
+      internalID: 879400442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_218
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ad2ed5318b5e04b8c3fee66b41c6e6
+      internalID: 660830075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_219
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239977f1e50e06d44bcfba76c5706940
+      internalID: 866698476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_220
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077d52df46f1c84fb2a24f208867003
+      internalID: -1355356661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_221
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50dd8c01e066a84a8de3a86a964a50f
+      internalID: -1050437987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_222
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b828ec1bcd4d97b4ca18c1906f028755
+      internalID: 1450748201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_223
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31129ef1049d24f984a3683b01f7b7
+      internalID: -910049262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_224
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1784796da0ad8b41a18c147a5a602f4
+      internalID: 1091159419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_225
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b22e3260dd8b6d458d98356c4e8bd9d
+      internalID: 1487749189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_226
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6443ae46b36a4540abaac948431f005
+      internalID: 1719272242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_227
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92330e39ad978ec46886474bbab6c9fb
+      internalID: -423734422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_228
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27847268a3dc840a8f6696586ae3f5
+      internalID: -1623944056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_229
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0bbd5386f5b6b4ba7909bb7bd7d820
+      internalID: -1777611288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_230
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee694d696332f2246a576ed16243857f
+      internalID: -928483992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_231
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feecb38036650d48939b06f40d1481a
+      internalID: 472650684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_232
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7376c74fc93af4c8984d881647cbb5
+      internalID: -1297031503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_233
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe924f9ad85b1409d44c51e7fb4072
+      internalID: -500051847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_234
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3853df5ce94e1754091f05626e72ada4
+      internalID: 1083283351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_235
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09a7aeeaf50ec4cad7dae2d8900cb2
+      internalID: 1720591658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_236
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc5fe0cbff5f64fab152a0f63a2508
+      internalID: 1526925564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_237
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2382c779b925784fb3d8b787417eb47
+      internalID: 316409834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_238
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60400b8f2e1df7b4381050e7e771db5d
+      internalID: 1128606669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_239
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd02593e5ac48f4a9e7bfed4a4ed82a
+      internalID: 1062896346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_240
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d40a32744f8d4abc787b86ea77027
+      internalID: 894673971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_241
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a5a9bdc315a847bc1cb6d8fd73fc5
+      internalID: -392170855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_242
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ae2f550af88c740917fef6af3ca314
+      internalID: -939334751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_243
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9fecbabc57984d9498070f0730876
+      internalID: 1578334348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_244
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a4f21618ef2e4d8380f69a5e0cd72
+      internalID: -1740992625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_245
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39639966a67e84b498e07252b702a794
+      internalID: 55711563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ac5c9c2708ec4ebf90d449e7c1655
+      internalID: 936061816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_247
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221d140be3184a47b2ba09981b317e8
+      internalID: -2016465458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_248
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f517c40cdadd64b96ae96989b6990b
+      internalID: 93833253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_249
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425f4ceabc634a498ec1e59cad73daf
+      internalID: -1664254889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_250
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054df8918b06b204aba4e7909f8fa262
+      internalID: -343762061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_251
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3433c2bf6bf954c9e65a22c7485f30
+      internalID: 1284823727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_252
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f29ea8c5d61644a2efe5504f4000f
+      internalID: 1186462091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_253
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2747881402c38b4483d370f8111359e
+      internalID: 627764148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_254
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b1a2def1c1734391d88f989fe2de2
+      internalID: -1268834905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_255
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19965dc176ad0a641bed0d1c6097dc2a
+      internalID: 703389281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_256
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cef7ce64a34bf4a8d1578458b86aab
+      internalID: -678105727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_257
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517890945a62ca4c8ffdd3ec5db9804
+      internalID: 2145072556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_258
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1e2f88e1338646838227734cc04c1
+      internalID: 1934989348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_259
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8187c44e8406749b915addd267be5b
+      internalID: 1359743471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_260
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11394a574258f21439900a1b1aec16d1
+      internalID: -2127503585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_261
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5bca72143bdf4badbf49a357e6c10
+      internalID: 192668871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_262
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9141b03533c6345911975dababa8f1
+      internalID: 1590795460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_263
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d06f948f2a6d744b8dd16ed74c1f22
+      internalID: -2137297307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_264
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da710ac5a5a3c642aa9292b34b33622
+      internalID: -163450956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_265
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee19326170c5b4468c9cb8bb673fe07
+      internalID: -557685161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_266
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a1e4a66dcc87469a50b37af745f5f
+      internalID: 2052320338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_267
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788dc5d717df5734b9e6926cca17c09f
+      internalID: -2143822775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_268
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484c9b05239b5b45a0c15f817d79436
+      internalID: -535585346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_269
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52236cb390e50478fd08b510ff1499
+      internalID: 183287137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9601517ee55a6e4d928619399a564a7
+      internalID: 1440536825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_271
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41cca0e08827994ea434b5828aa0e74
+      internalID: 1278008728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_272
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851884313b6a69a4db0c6b3fcfe76bed
+      internalID: -398462154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_273
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda63c5aba294bc4e99cdddaec0a7f0e
+      internalID: -1624883968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_274
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0797536fa336446b23d5eb43c9d7d6
+      internalID: -1580739700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7934e8f6aa325548ad0efe421c4aff9
+      internalID: 697965339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_276
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc78f06bf45e940b3c623c33f24202
+      internalID: 569259933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_277
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d7a07f88400742882a3fadeac33e6
+      internalID: -1438607215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_278
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a57c6a9ba84f468885f3627582dd2
+      internalID: -382357233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_279
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e99d4aac590ab45a7c7fc92176f6df
+      internalID: 1852807396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_280
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b0c19241bed85458ee91cbed9790ba
+      internalID: -1761118414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_281
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2732c22bea05e4f81f1404bf9e306e
+      internalID: -2032206321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_282
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8152bae5de9964cbf1356bbe758cbe
+      internalID: 404262649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L1ConnectingBackground_283
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d495aacb5b97e4d9fd1cfe1eb97807
+      internalID: -838494713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fdc557e5088d4c42afca3944852bd01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      L1ConnectingBackground_0: -3449147968141587651
+      L1ConnectingBackground_1: -934087309
+      L1ConnectingBackground_10: 2082079349
+      L1ConnectingBackground_100: -753423941
+      L1ConnectingBackground_101: 1582807676
+      L1ConnectingBackground_102: -16495090
+      L1ConnectingBackground_103: -1623472184
+      L1ConnectingBackground_104: 1859659362
+      L1ConnectingBackground_105: -1076236673
+      L1ConnectingBackground_106: -60783769
+      L1ConnectingBackground_107: 1801849358
+      L1ConnectingBackground_108: -1007492307
+      L1ConnectingBackground_109: 272314199
+      L1ConnectingBackground_11: 1297506668
+      L1ConnectingBackground_110: -95604670
+      L1ConnectingBackground_111: -1663871243
+      L1ConnectingBackground_112: 65275050
+      L1ConnectingBackground_113: -615050567
+      L1ConnectingBackground_114: 989030484
+      L1ConnectingBackground_115: -918356926
+      L1ConnectingBackground_116: -676587508
+      L1ConnectingBackground_117: 1233809660
+      L1ConnectingBackground_118: 572011842
+      L1ConnectingBackground_119: 426781598
+      L1ConnectingBackground_12: -1481927149
+      L1ConnectingBackground_120: -1006870626
+      L1ConnectingBackground_121: -1843561188
+      L1ConnectingBackground_122: -386139639
+      L1ConnectingBackground_123: -1378624878
+      L1ConnectingBackground_124: -1302036206
+      L1ConnectingBackground_125: 2067229656
+      L1ConnectingBackground_126: -1447852069
+      L1ConnectingBackground_127: -34495380
+      L1ConnectingBackground_128: -1725316594
+      L1ConnectingBackground_129: 1002186711
+      L1ConnectingBackground_13: -599786247
+      L1ConnectingBackground_130: -195743976
+      L1ConnectingBackground_131: 1770060123
+      L1ConnectingBackground_132: 1724531301
+      L1ConnectingBackground_133: -2086873789
+      L1ConnectingBackground_134: 584693209
+      L1ConnectingBackground_135: -125190854
+      L1ConnectingBackground_136: -683099885
+      L1ConnectingBackground_137: 8246589
+      L1ConnectingBackground_138: 1562013157
+      L1ConnectingBackground_139: -726644068
+      L1ConnectingBackground_14: 372382769
+      L1ConnectingBackground_140: 1062934777
+      L1ConnectingBackground_141: -216270999
+      L1ConnectingBackground_142: -1133247164
+      L1ConnectingBackground_143: -1198723481
+      L1ConnectingBackground_144: -1584942071
+      L1ConnectingBackground_145: -125417747
+      L1ConnectingBackground_146: -1349070035
+      L1ConnectingBackground_147: 31980089
+      L1ConnectingBackground_148: -889999684
+      L1ConnectingBackground_149: -1804752031
+      L1ConnectingBackground_15: 60457466
+      L1ConnectingBackground_150: 2020637592
+      L1ConnectingBackground_151: 17244404
+      L1ConnectingBackground_152: -782542982
+      L1ConnectingBackground_153: 998079681
+      L1ConnectingBackground_154: -1945208201
+      L1ConnectingBackground_155: 1361351112
+      L1ConnectingBackground_156: -483673086
+      L1ConnectingBackground_157: 1569848837
+      L1ConnectingBackground_158: 1532329190
+      L1ConnectingBackground_159: -118568016
+      L1ConnectingBackground_16: -1661139417
+      L1ConnectingBackground_160: -2116773711
+      L1ConnectingBackground_161: -637058696
+      L1ConnectingBackground_162: -409038980
+      L1ConnectingBackground_163: 2136656266
+      L1ConnectingBackground_164: -1453730089
+      L1ConnectingBackground_165: 1087641087
+      L1ConnectingBackground_166: 1933399913
+      L1ConnectingBackground_167: -861026441
+      L1ConnectingBackground_168: 1269716482
+      L1ConnectingBackground_169: 1466161219
+      L1ConnectingBackground_17: -1866207236
+      L1ConnectingBackground_170: -1549354121
+      L1ConnectingBackground_171: -2096333904
+      L1ConnectingBackground_172: 1892631777
+      L1ConnectingBackground_173: -422284531
+      L1ConnectingBackground_174: -446299748
+      L1ConnectingBackground_175: 1534207244
+      L1ConnectingBackground_176: 725682398
+      L1ConnectingBackground_177: 1150615072
+      L1ConnectingBackground_178: -1313163669
+      L1ConnectingBackground_179: 1821720511
+      L1ConnectingBackground_18: 2135488700
+      L1ConnectingBackground_180: 1271520264
+      L1ConnectingBackground_181: 925067168
+      L1ConnectingBackground_182: -625851431
+      L1ConnectingBackground_183: -1224315447
+      L1ConnectingBackground_184: -499527154
+      L1ConnectingBackground_185: -1257455771
+      L1ConnectingBackground_186: -1578748605
+      L1ConnectingBackground_187: 2077113544
+      L1ConnectingBackground_188: 338598213
+      L1ConnectingBackground_189: 992126947
+      L1ConnectingBackground_19: -489396495
+      L1ConnectingBackground_190: 1839118908
+      L1ConnectingBackground_191: 1025641427
+      L1ConnectingBackground_192: 1677462668
+      L1ConnectingBackground_193: 869401699
+      L1ConnectingBackground_194: -837413239
+      L1ConnectingBackground_195: -520667911
+      L1ConnectingBackground_196: -1015088181
+      L1ConnectingBackground_197: 729031844
+      L1ConnectingBackground_198: -1449392373
+      L1ConnectingBackground_199: 1754237527
+      L1ConnectingBackground_2: 985327533
+      L1ConnectingBackground_20: -1756389620
+      L1ConnectingBackground_200: -232460971
+      L1ConnectingBackground_201: -1593176828
+      L1ConnectingBackground_202: 1959412668
+      L1ConnectingBackground_203: -434022862
+      L1ConnectingBackground_204: 1472040734
+      L1ConnectingBackground_205: -1207081524
+      L1ConnectingBackground_206: -1646491456
+      L1ConnectingBackground_207: 450556265
+      L1ConnectingBackground_208: -682522879
+      L1ConnectingBackground_209: -171781277
+      L1ConnectingBackground_21: 1062391723
+      L1ConnectingBackground_210: -826356419
+      L1ConnectingBackground_211: 799109365
+      L1ConnectingBackground_212: -328491460
+      L1ConnectingBackground_213: -582483786
+      L1ConnectingBackground_214: -506965401
+      L1ConnectingBackground_215: 786115769
+      L1ConnectingBackground_216: -526012156
+      L1ConnectingBackground_217: 879400442
+      L1ConnectingBackground_218: 660830075
+      L1ConnectingBackground_219: 866698476
+      L1ConnectingBackground_22: -161484342
+      L1ConnectingBackground_220: -1355356661
+      L1ConnectingBackground_221: -1050437987
+      L1ConnectingBackground_222: 1450748201
+      L1ConnectingBackground_223: -910049262
+      L1ConnectingBackground_224: 1091159419
+      L1ConnectingBackground_225: 1487749189
+      L1ConnectingBackground_226: 1719272242
+      L1ConnectingBackground_227: -423734422
+      L1ConnectingBackground_228: -1623944056
+      L1ConnectingBackground_229: -1777611288
+      L1ConnectingBackground_23: -312967695
+      L1ConnectingBackground_230: -928483992
+      L1ConnectingBackground_231: 472650684
+      L1ConnectingBackground_232: -1297031503
+      L1ConnectingBackground_233: -500051847
+      L1ConnectingBackground_234: 1083283351
+      L1ConnectingBackground_235: 1720591658
+      L1ConnectingBackground_236: 1526925564
+      L1ConnectingBackground_237: 316409834
+      L1ConnectingBackground_238: 1128606669
+      L1ConnectingBackground_239: 1062896346
+      L1ConnectingBackground_24: 749252037
+      L1ConnectingBackground_240: 894673971
+      L1ConnectingBackground_241: -392170855
+      L1ConnectingBackground_242: -939334751
+      L1ConnectingBackground_243: 1578334348
+      L1ConnectingBackground_244: -1740992625
+      L1ConnectingBackground_245: 55711563
+      L1ConnectingBackground_246: 936061816
+      L1ConnectingBackground_247: -2016465458
+      L1ConnectingBackground_248: 93833253
+      L1ConnectingBackground_249: -1664254889
+      L1ConnectingBackground_25: -577120340
+      L1ConnectingBackground_250: -343762061
+      L1ConnectingBackground_251: 1284823727
+      L1ConnectingBackground_252: 1186462091
+      L1ConnectingBackground_253: 627764148
+      L1ConnectingBackground_254: -1268834905
+      L1ConnectingBackground_255: 703389281
+      L1ConnectingBackground_256: -678105727
+      L1ConnectingBackground_257: 2145072556
+      L1ConnectingBackground_258: 1934989348
+      L1ConnectingBackground_259: 1359743471
+      L1ConnectingBackground_26: 1552810150
+      L1ConnectingBackground_260: -2127503585
+      L1ConnectingBackground_261: 192668871
+      L1ConnectingBackground_262: 1590795460
+      L1ConnectingBackground_263: -2137297307
+      L1ConnectingBackground_264: -163450956
+      L1ConnectingBackground_265: -557685161
+      L1ConnectingBackground_266: 2052320338
+      L1ConnectingBackground_267: -2143822775
+      L1ConnectingBackground_268: -535585346
+      L1ConnectingBackground_269: 183287137
+      L1ConnectingBackground_27: -418234713
+      L1ConnectingBackground_270: 1440536825
+      L1ConnectingBackground_271: 1278008728
+      L1ConnectingBackground_272: -398462154
+      L1ConnectingBackground_273: -1624883968
+      L1ConnectingBackground_274: -1580739700
+      L1ConnectingBackground_275: 697965339
+      L1ConnectingBackground_276: 569259933
+      L1ConnectingBackground_277: -1438607215
+      L1ConnectingBackground_278: -382357233
+      L1ConnectingBackground_279: 1852807396
+      L1ConnectingBackground_28: 371638626
+      L1ConnectingBackground_280: -1761118414
+      L1ConnectingBackground_281: -2032206321
+      L1ConnectingBackground_282: 404262649
+      L1ConnectingBackground_283: -838494713
+      L1ConnectingBackground_29: 853059856
+      L1ConnectingBackground_3: 271103134
+      L1ConnectingBackground_30: 680957961
+      L1ConnectingBackground_31: -1813852143
+      L1ConnectingBackground_32: -1550020106
+      L1ConnectingBackground_33: -197138275
+      L1ConnectingBackground_34: -324219700
+      L1ConnectingBackground_35: 1319918989
+      L1ConnectingBackground_36: -2111688829
+      L1ConnectingBackground_37: 1757427335
+      L1ConnectingBackground_38: 726382655
+      L1ConnectingBackground_39: -2108670700
+      L1ConnectingBackground_4: 381073294
+      L1ConnectingBackground_40: 2031605909
+      L1ConnectingBackground_41: -1321365275
+      L1ConnectingBackground_42: -994176919
+      L1ConnectingBackground_43: -1312363638
+      L1ConnectingBackground_44: 2036503177
+      L1ConnectingBackground_45: 1820552075
+      L1ConnectingBackground_46: -1694959422
+      L1ConnectingBackground_47: -2025301873
+      L1ConnectingBackground_48: -890888580
+      L1ConnectingBackground_49: 1485363043
+      L1ConnectingBackground_5: -1779854670
+      L1ConnectingBackground_50: -1135956002
+      L1ConnectingBackground_51: -894907195
+      L1ConnectingBackground_52: -1138233916
+      L1ConnectingBackground_53: -415455879
+      L1ConnectingBackground_54: -552656413
+      L1ConnectingBackground_55: 1949258822
+      L1ConnectingBackground_56: -1504597016
+      L1ConnectingBackground_57: 270391182
+      L1ConnectingBackground_58: 1159682194
+      L1ConnectingBackground_59: -499538315
+      L1ConnectingBackground_6: -2026080893
+      L1ConnectingBackground_60: 119243663
+      L1ConnectingBackground_61: 676024244
+      L1ConnectingBackground_62: -1697869608
+      L1ConnectingBackground_63: -1181824344
+      L1ConnectingBackground_64: 1862004203
+      L1ConnectingBackground_65: 749130161
+      L1ConnectingBackground_66: 966186040
+      L1ConnectingBackground_67: -62855435
+      L1ConnectingBackground_68: -1952632158
+      L1ConnectingBackground_69: 2017465399
+      L1ConnectingBackground_7: 604724284
+      L1ConnectingBackground_70: -1271532580
+      L1ConnectingBackground_71: 2105247437
+      L1ConnectingBackground_72: -351529586
+      L1ConnectingBackground_73: 1080382614
+      L1ConnectingBackground_74: -880890596
+      L1ConnectingBackground_75: -1105841786
+      L1ConnectingBackground_76: -1917834967
+      L1ConnectingBackground_77: 620358515
+      L1ConnectingBackground_78: -1818049659
+      L1ConnectingBackground_79: 1918352616
+      L1ConnectingBackground_8: -959010933
+      L1ConnectingBackground_80: -1867883408
+      L1ConnectingBackground_81: 1436548870
+      L1ConnectingBackground_82: -1115455991
+      L1ConnectingBackground_83: -1948785214
+      L1ConnectingBackground_84: -398263343
+      L1ConnectingBackground_85: -566857924
+      L1ConnectingBackground_86: -1543811697
+      L1ConnectingBackground_87: -1847511120
+      L1ConnectingBackground_88: 1061103761
+      L1ConnectingBackground_89: 1269851852
+      L1ConnectingBackground_9: -1379868417
+      L1ConnectingBackground_90: 584066700
+      L1ConnectingBackground_91: 844765960
+      L1ConnectingBackground_92: 1286608918
+      L1ConnectingBackground_93: 1470354643
+      L1ConnectingBackground_94: -1827054736
+      L1ConnectingBackground_95: -1280467445
+      L1ConnectingBackground_96: -1218766631
+      L1ConnectingBackground_97: 1954956020
+      L1ConnectingBackground_98: 23649797
+      L1ConnectingBackground_99: -7862513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

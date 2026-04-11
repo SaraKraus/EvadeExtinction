@@ -4,7 +4,7 @@ using TMPro;
 public class ObjectManager : MonoBehaviour
 {
 
-   public static ObjectManager Instance { get; private set; }
+   public static ObjectManager Instance /*{ get; private set; }*/;
     private int Objects = 0;
     //[SerializeField] private TMP_Text objectsDisplay;
     public TMP_Text objectsDisplay;

@@ -50,20 +50,32 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: 1BackColor
-    uniqueID: 2096463031
+  - name: Background
+    uniqueID: 3782170557
     locked: 0
-  - name: 2BackTrees
-    uniqueID: 2076761219
+  - name: BackTrees
+    uniqueID: 2376217509
     locked: 0
-  - name: 3FrontTrees
-    uniqueID: 3730923023
+  - name: Bushes1
+    uniqueID: 1353850129
     locked: 0
-  - name: 4Shadows
-    uniqueID: 3716884215
+  - name: FrontTrees
+    uniqueID: 3618534353
+    locked: 0
+  - name: Bushes2
+    uniqueID: 3326393229
+    locked: 0
+  - name: Leafs
+    uniqueID: 360012023
+    locked: 0
+  - name: Clouds
+    uniqueID: 1749835701
     locked: 0
   - name: Player
     uniqueID: 1626716149
+    locked: 0
+  - name: Tilemap
+    uniqueID: 4183291777
     locked: 0
   m_RenderingLayers:
   - Default

@@ -16,6 +16,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     //float blinkTimer;
     //bool blinking;
 
+    [SerializeField] private ObjectManager objectManager;
+
 
     Vector2 startPos;
     SpriteRenderer spriteRenderer;
@@ -34,7 +36,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         if(collision.CompareTag("Flames"))
         {
             Die();
-            ObjectManager.Instance.ResetObjects();
+            if (ObjectManager.Instance != null)
+                ObjectManager.Instance.ResetObjects();
         }
     }
 

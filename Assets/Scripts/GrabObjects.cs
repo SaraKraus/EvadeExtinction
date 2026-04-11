@@ -5,9 +5,7 @@ using System.Collections;
 
 public class GrabObjects : MonoBehaviour
 {
-    [SerializeField]
-    private Transform grabPoint;
-
+    [SerializeField] private Transform grabPoint;
     private Transform lastObject;
     private int layerIndex;
 
@@ -26,35 +24,75 @@ public class GrabObjects : MonoBehaviour
         lastObject = grabPoint;
     }
 
+    // private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     if(collision.gameObject.layer == layerIndex )
+    //     {
+    //         GameObject obj = collision.gameObject;
+
+    //         Rigidbody2D rb = obj.GetComponentInParent<Rigidbody2D>();
+    //         if (rb == null)
+    //         {
+    //             Debug.LogWarning(obj.name + "has no RigidBody2D");
+    //             return;
+    //         }
+    //         rb.isKinematic = true;
+            
+    //         SpriteRenderer objSR = obj.GetComponentInParent<SpriteRenderer>();
+
+    //         if (objSR == null)
+    //         {
+    //             Debug.LogWarning(obj.name + "has no SpriteRenderer");
+    //             return;                
+    //         }
+
+    //         float objHeight = 1f;
+
+    //         //objSR != null;
+
+    //         objHeight = objSR.sprite.bounds.size.y * 0f; //Decides how far the second animal is drawn above the previous one
+
+    //         obj.transform.SetParent(grabPoint);
+    //         obj.transform.localPosition = new Vector3(0, stackHeight, 0); //the two numbers just make the sprites disapear???
+
+    //         stackHeight += objHeight;
+
+    //              if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.collectibleSFX != null)
+    //          {
+    //              MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.collectibleSFX);
+    //          }
+    //     }
+    // }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.layer == layerIndex )
+        Debug.Log("Triggered by: " + collision.name);
+
+        if (collision.gameObject.layer != layerIndex) return;
+
+        GameObject obj = collision.gameObject;
+
+        Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
+        if (rb == null)
         {
-            GameObject obj = collision.gameObject;
+            Debug.LogError("No RB2d on object: " + obj.name);
+            return;
+        }
 
-            Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
-            rb.isKinematic = true;
+        rb.isKinematic = true;
 
-            SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
+        SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
+        if (objSR == null)
+        {
+            Debug.LogError("No SR on object: " + obj.name);
+            return;
+        }
 
-            float objHeight = 1f;
+        float objHeight = 1f;
 
-            //objSR != null;
-            {
-
-                objHeight = objSR.sprite.bounds.size.y * 0f; //Decides how far the second animal is drawn above the previous one
-
-            }
-
-            obj.transform.SetParent(grabPoint);
-            obj.transform.localPosition = new Vector3(0, stackHeight, 0); //the two numbers just make the sprites disapear???
-
-            stackHeight += objHeight;
-
-                 if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.collectibleSFX != null)
-             {
-                 MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.collectibleSFX);
-             }
+        if (objSR.sprite != null)
+        {
+            objHeight = objSR.sprite.bounds.size.y * 0f;
         }
     }
 } 
