@@ -56,11 +56,17 @@ TagManager:
   - name: BackTrees
     uniqueID: 2376217509
     locked: 0
+  - name: BackTrees(2)
+    uniqueID: 2249479537
+    locked: 0
   - name: Bushes1
     uniqueID: 1353850129
     locked: 0
   - name: FrontTrees
     uniqueID: 3618534353
+    locked: 0
+  - name: FrontTree(2)
+    uniqueID: 3486868647
     locked: 0
   - name: Bushes2
     uniqueID: 3326393229
