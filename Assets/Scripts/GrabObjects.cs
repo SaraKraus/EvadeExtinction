@@ -77,7 +77,12 @@ public class GrabObjects : MonoBehaviour
         {
             Debug.LogError("No RB2d on object: " + obj.name);
             return;
+            
         }
+        if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.collectibleSFX != null)
+            {
+            MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.collectibleSFX);
+            }
 
         SpriteRenderer objSR = obj.GetComponent<SpriteRenderer>();
         if (objSR == null)

@@ -1,11 +1,18 @@
 using UnityEngine;
 using System.Collections;
+using DG.Tweening;
+
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [SerializeField] float maxHealth = 100f;
+    [SerializeField] float strength = 0.5f;
+    [SerializeField] float duration = 3f;
+
     public string Level;
+
+
     //[SerializeField] float invulnerabilityDuration = 1f;
     //[SerializeField] float blinkInterval = 0.1f;
 
@@ -13,6 +20,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     //float invulnerabilityTimer;
 
     SpriteRenderer sprite;
+    Rigidbody2D rb;
+    private bool isDead;
     //float blinkTimer;
     //bool blinking;
 
@@ -28,6 +37,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
         startPos = transform.position;
         currentHealth = maxHealth;
         sprite = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
 
     }
 
@@ -42,22 +52,30 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     }
 
     void Die()
-    {
-        SceneLoader.Instance.LoadScene(Level);
-        StartCoroutine(Respawn(10f));
-         if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.deathSFX != null)
-         {
-         MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.deathSFX);
-         }
-    }
+{
+    if (isDead) return;
+    isDead = true;
 
-    IEnumerator Respawn(float duration)
-    {
-        spriteRenderer.enabled = false;
-        yield return new WaitForSeconds(duration);
-        transform.position = startPos;
-        spriteRenderer.enabled = true;
-    }
+    rb.linearVelocity = Vector2.zero;
+    rb.simulated = false;
+
+    spriteRenderer.enabled = false; // hide player, but keep script alive
+
+    if (CameraShakeManager.Instance != null)
+        CameraShakeManager.Instance.Shake(10f, 6f);
+
+    if (MenuAudioManager.Instance != null && MenuAudioManager.Instance.deathSFX != null)
+        MenuAudioManager.Instance.PlaySFX(MenuAudioManager.Instance.deathSFX);
+
+    StartCoroutine(Death());
+}
+
+IEnumerator Death()
+{
+    yield return new WaitForSeconds(0.5f);
+
+    SceneLoader.Instance.LoadScene(Level);
+}
 
    
 
@@ -78,6 +96,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
         currentHealth -= amount;
         //CameraShakeManager.Instance.Shake(2f, 0.25f);
+
+        //CameraShake.Shake(duration = 3f, strength = 3f);
 
         if (currentHealth <= 0f)
         {

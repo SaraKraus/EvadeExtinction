@@ -7,8 +7,8 @@ public class FinishPoint : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("Level Complete!");
-            SceneController.instance.LoadMenu();
+           // Debug.Log("Level Complete!");
+            SceneController.instance.NextLevel();
             //SceneManager.LoadScene/*Async*/(1);
         }
     }
