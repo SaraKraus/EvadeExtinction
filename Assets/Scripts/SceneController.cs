@@ -4,40 +4,46 @@ using System.Collections;
 
 public class SceneController : MonoBehaviour
 {
-    public static SceneController instance;
     [SerializeField] Animator transitionAnim;
 
-    // private void Awake()
-    // {
-    //     if(instance == null)
-    //     {
-    //         instance = this;
-    //         DontDestroyOnLoad(gameObject);
-    //     }
-    //     else
-    //     {
-    //         Destroy(gameObject);
-    //     }
-    // }
+    public static SceneController instance;
 
-    // public void LoadMenu()
-    // {
-    //     SceneManager.LoadScene(0);
-    // }
+    private void Awake()
+    {
+        if(instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
     
    public void NextLevel()
    {
-    StartCoroutine(LoadLevel());
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+       //StartCoroutine(LoadLevel());
    }
 
-  public IEnumerator LoadLevel()
+    public void LoadScene(string sceneName)
+    {
+        SceneManager.LoadSceneAsync(sceneName);
+    }
+    public IEnumerator LoadLevel()
    {
-    transitionAnim.SetTrigger("End");
-    yield return new WaitForSeconds(5);
-    SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
-    transitionAnim.SetTrigger("Start");
+        transitionAnim.SetTrigger("End");
+        yield return new WaitForSeconds(5);
+        transitionAnim.SetTrigger("Start");
    }
 }
+
+
+
+
+
+
     // transitionAnim.SetTrigger("End");
     // yield return new WaitForSeconds(1);
     // int nextIndex = SceneManager.GetActiveScene().buildIndex + 1;

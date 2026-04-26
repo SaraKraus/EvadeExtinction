@@ -14,6 +14,16 @@ public class NewPlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     Animator animator;
 
+    [SerializeField] private float coyoteTime = 0.2f;
+    private float coyoteTimeCounter;
+
+    private float jumpBufferTime = 0.2f;
+    private float jumpBufferCounter;
+
+    private float jumpForce = 1;
+
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,7 +32,6 @@ public class NewPlayerMovement : MonoBehaviour
 
     void Update()
     {
-
         
         horizontalInput = Input.GetAxis("Horizontal");
 
@@ -49,6 +58,20 @@ public class NewPlayerMovement : MonoBehaviour
             animator.SetBool("isGrounded", isGrounded);
             animator.SetFloat("xVelocity", Mathf.Abs(horizontalInput));
         }
+
+        if(isGrounded)
+        {
+            coyoteTimeCounter = coyoteTime;
+        }
+        else coyoteTimeCounter -= Time.deltaTime;
+        if(jumpBufferCounter > 0f && coyoteTimeCounter > 0f)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+        }
+
+        jumpBufferCounter = 0f;
+        coyoteTimeCounter = 0f;
+        isGrounded = false;
     }
 
     private void FixedUpdate()
