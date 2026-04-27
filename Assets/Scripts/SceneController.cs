@@ -29,20 +29,16 @@ public class SceneController : MonoBehaviour
 
     public void LoadScene(string sceneName)
     {
-        SceneManager.LoadSceneAsync(sceneName);
+        //SceneManager.LoadSceneAsync(sceneName); //loads next scene
     }
     public IEnumerator LoadLevel()
    {
-        transitionAnim.SetTrigger("End");
-        yield return new WaitForSeconds(5);
+        transitionAnim.SetTrigger("End"); //plays transition animation
+        yield return new WaitForSeconds(1);
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         transitionAnim.SetTrigger("Start");
    }
 }
-
-
-
-
-
 
     // transitionAnim.SetTrigger("End");
     // yield return new WaitForSeconds(1);
